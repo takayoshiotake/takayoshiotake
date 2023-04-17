@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takayoshiotake&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=takayoshiotake&theme=onedark&no-bg=false&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=takayoshiotake&theme=gitdimmed&no-bg=false&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
