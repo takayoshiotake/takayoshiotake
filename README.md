@@ -1,5 +1,7 @@
 ### Hi there 🍣
 
+<img src="assets/15226334.png" height="36" /><br />
+
 [![](https://www.codewars.com/users/takayoshiotake/badges/micro)](https://www.codewars.com)
 
 <!--
